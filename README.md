@@ -1,9 +1,6 @@
-# bucket-service
+# nestjs-ipfs-example
 
 Simple Nest.js app that uses IPFS.
-
-Other repos:
-* [@buckets/core](https://github.com/amirylm/buckets-core)
 
 ## Installation
 
